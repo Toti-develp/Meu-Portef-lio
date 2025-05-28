@@ -113,15 +113,13 @@ body {
     height: 120px;
   }
 }
-.VT {
+.ver-mais {
     color:#2a9d8f;
     font-size: 15px;
-    align-self: flex-end;
-    flex: 0 0 auto;
-    margin-left: 1rem; 
+    text-align: right;
     text-decoration: none;
     font-weight: bold;
 }
-.VT:houver {
-    color: #20b2aa;
+.ver-mais:hover {
+    color: lightseagreen;
 }
