@@ -116,10 +116,11 @@ body {
 .ver-mais {
     color:#2a9d8f;
     font-size: 15px;
-    text-align: right;
     text-decoration: none;
-    font-weight: bold;
 }
 .ver-mais:hover {
     color: lightseagreen;
+}
+.ver-mais2 {
+  text-align: center;
 }
