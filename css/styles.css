@@ -113,14 +113,12 @@ body {
     height: 120px;
   }
 }
-.ver-mais {
-    text-align: center;  
+.vm {
+  text-align: center;  
+  color: #2a9d8f;
+  text-decoration: none;
+  font-size: 20px;
 }
-.ver-mais2:hover {
-    color: #20b2aa;
-}
-.ver-mais2 {
-    color: #2a9d8f;
-    text-decoration: none;
-    font-size: 20px;
+.vm:hover {
+  color: #20b2aa;
 }
