@@ -116,5 +116,12 @@ body {
 .VT {
     color:#2a9d8f;
     font-size: 15px;
-    text-align: center;
+    align-self: flex-end;
+    flex: 0 0 auto;
+    margin-left: 1rem; 
+    text-decoration: none;
+    font-weight: bold;
+}
+.VT:houver {
+    color: #20b2aa;
 }
