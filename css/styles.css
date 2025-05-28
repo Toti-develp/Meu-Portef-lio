@@ -114,13 +114,13 @@ body {
   }
 }
 .ver-mais {
-    color:#2a9d8f;
-    font-size: 15px;
-    text-decoration: none;
+    text-align: center;  
 }
-.ver-mais:hover {
+.ver-mais2:hover {
     color: lightseagreen;
 }
 .ver-mais2 {
-  text-align: center;
+    color: #2a9d8f;
+    text-decoration: none;
+    font-size: 20px;
 }
